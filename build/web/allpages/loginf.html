@@ -1,0 +1,61 @@
+<html>
+<head>
+     <link href="css/bootstrap.min.css" rel="stylesheet"/>
+       <link href="css/font-awesome.min.css" rel="stylesheet"/>
+       <script src="js/jquery-3.3.1.min.js"></script>
+       <script src="js/bootstrap.min.js"></script>
+       <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"> 
+      <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css"> 
+    
+    </head>
+    <body>
+   
+      <img src="images/bg.jpg" alt="..." style="height:100%; width:100%;">
+     
+      <div class="carousel-caption">   
+          <h1 style="font-size:50px;font-style:italic;">Login</h1> 
+    <div class="modal-dialog" id="ddl" onchange="get-val(); ">
+         <div class="modal-content">
+             <div class="modal-header">
+                
+      <form action="logindb.jsp" method="post" style="background-color: yellowgreen;">
+ <span class="input-group-addon">
+<h4>Email: </h4>
+<br>
+<input type="email" name="id"  class="form-control" placeholder="enter email"/> 
+</span>
+<br>
+ <span class="input-group-addon">
+     <h4>Password:</h4>
+<br>
+<input type="password" name="psw"  class="form-control" placeholder="enter password"/> 
+</span>
+ <br>
+
+ <span class="input-group-addon">
+     <h4>
+         <input type="submit" value="Login" class="btn btn-success"/>
+     </h4>
+ </span>
+</form>
+             
+       </div>        
+</div>
+    </div>
+        </div>
+    </div>
+    
+    <script src="js/jquery-3.3.1.min"></script>
+    <script src="js/bootstrap.js"></script>
+<script>
+    function get-val()
+    {
+        var ddlval=$("#ddl").text();
+        alert(ddlval);
+    }
+    
+</script>
+ 
+  </body>
+
+</html>
