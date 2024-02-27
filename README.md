@@ -1,1 +1,18 @@
 "# Management_for_National_Park_Website" 
+
+![p2](https://github.com/ShivamPaswan95SP02/Management_for_National_Park_Website/assets/144666996/c1730cee-7322-49d3-a25a-97d380d9fcba)
+![p3](https://github.com/ShivamPaswan95SP02/Management_for_National_Park_Website/assets/144666996/b5a6cf8f-9bfc-47bc-b78d-613271c06342)
+![p4](https://github.com/ShivamPaswan95SP02/Management_for_National_Park_Website/assets/144666996/24768507-ec8d-4289-969d-73dee3018093)
+![p5](https://github.com/ShivamPaswan95SP02/Management_for_National_Park_Website/assets/144666996/2abe9664-c83e-443b-b48c-e5dda997ab09)
+![pay1](https://github.com/ShivamPaswan95SP02/Management_for_National_Park_Website/assets/144666996/607918a5-3df3-4d17-905c-41148b17bc26)
+![pay2](https://github.com/ShivamPaswan95SP02/Management_for_National_Park_Website/assets/144666996/87bdea75-025a-4596-a813-83fbadeecf15)
+![user](https://github.com/ShivamPaswan95SP02/Management_for_National_Park_Website/assets/144666996/fabcaebf-3ac0-455f-8664-a7841f20460c)
+![adm](https://github.com/ShivamPaswan95SP02/Management_for_National_Park_Website/assets/144666996/b2cd7ff4-8595-4b69-824a-486b3c4b5c70)
+![adm1](https://github.com/ShivamPaswan95SP02/Management_for_National_Park_Website/assets/144666996/5e866632-a08d-4d05-86a5-3f7ab0f11810)
+![b1](https://github.com/ShivamPaswan95SP02/Management_for_National_Park_Website/assets/144666996/f7c8304f-0c61-4a92-87da-7b82306da95e)
+![b2](https://github.com/ShivamPaswan95SP02/Management_for_National_Park_Website/assets/144666996/0c9b3a6f-e80f-493a-aaee-bf609f2f5f64)
+![b3](https://github.com/ShivamPaswan95SP02/Management_for_National_Park_Website/assets/144666996/a7f0c67b-c737-42a0-be81-65ab8221a13c)
+![db1](https://github.com/ShivamPaswan95SP02/Management_for_National_Park_Website/assets/144666996/07dfc588-f4b2-490f-9659-dcc4530cfe50)
+![db2](https://github.com/ShivamPaswan95SP02/Management_for_National_Park_Website/assets/144666996/bb3837e9-692d-4601-800c-1621bd4b051f)
+![log1](https://github.com/ShivamPaswan95SP02/Management_for_National_Park_Website/assets/144666996/e643940b-392c-42a2-a703-e19392ad3903)
+![p1](https://github.com/ShivamPaswan95SP02/Management_for_National_Park_Website/assets/144666996/22f4ce52-27ba-4c82-b5b8-471c98d9479f)
